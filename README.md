@@ -2,7 +2,7 @@
 
 <ul>
 <li>
-I am againzeenox, a student from India who loves to learn new things
+My real name is Mayank Rajput, a student from India who loves to learn new things
 </li>
 <li>
 I also like to code for fun but not quite often :blush:
