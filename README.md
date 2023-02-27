@@ -2,9 +2,9 @@
 
 <ul>
 <li>
-My real name is Mayank Rajput, a student from India who loves to learn new things
+Why are you here?
 </li>
 <li>
-I also like to code for fun but not quite often :blush:
+Have a good day
 </li>
 </ul>
